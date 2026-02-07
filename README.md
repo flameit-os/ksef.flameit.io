@@ -1,2 +1,6 @@
-# ksef.flameit.io
-Krajowy System e-Faktur
+# FlameIT - Krajowy System e-Faktur
+
+
+## Kontakt
+
++48 509 919 755
