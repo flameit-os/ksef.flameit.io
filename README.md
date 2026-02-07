@@ -2,7 +2,7 @@
 
 ## Ministerstwo Finansów
 
-* [Aplikacja Podatnika - KSeF - Ministerstwo Finansów](https://ap.ksef.mf.gov.pl/)
+* [Krajowy System **e-Faktur** - Aplikacja Podatnika KSeF - Ministerstwo Finansów](https://ap.ksef.mf.gov.pl/)
 
 ## Oprogramowanie do fakturowania/księgowania
 
